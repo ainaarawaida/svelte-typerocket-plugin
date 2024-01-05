@@ -1,0 +1,2 @@
+import{S as o,i,s as m,v as p,t as c,w as u,g as f,r as l,l as _,m as g,n as $,x}from"./vendor-KtsCjRfJ.js";import{P as d}from"./PageScript-YRd_5LHz.js";function P(s){let e,a,n;return e=new d({}),{c(){p(e.$$.fragment),a=c(`\r
+page1`)},m(t,r){u(e,t,r),f(t,a,r),n=!0},p:l,i(t){n||(_(e.$$.fragment,t),n=!0)},o(t){g(e.$$.fragment,t),n=!1},d(t){t&&$(a),x(e,t)}}}class w extends o{constructor(e){super(),i(this,e,null,P,m,{})}}export{w as default};

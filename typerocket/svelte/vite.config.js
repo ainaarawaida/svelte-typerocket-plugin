@@ -28,7 +28,7 @@ export default ({mode }) => {
     root: 'src',
     base: mode === 'development'
       ? '/'
-      : '/dist/',
+      : '/wp-content/plugins/ahli/typerocket/wordpress/assets/dist/',
   
     build: {
       // output dir for production build
